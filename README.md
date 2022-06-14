@@ -1,3 +1,5 @@
 # movies-explorer-api
 
-# Домен diplom.nomoredomains.sbs     
+# Домен 
+
+diplom.nomoredomains.sbs     
