@@ -1,3 +1,3 @@
 # movies-explorer-api
 
-# diplom.nomoredomains.sbs     
+# https://diplom.nomoredomains.sbs/  
