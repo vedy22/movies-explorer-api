@@ -1,7 +1,7 @@
 // Массив доменов, с которых разрешены кросс-доменные запросы
 const allowedCors = [
-  'https://diplom.nomoredomains.sbs',
-  'http://diplom.nomoredomains.sbs',
+  'https://tatyana22.ru',
+  'http://tatyana22.ru',
   'localhost:3000',
   'http://localhost:3000',
 ];
